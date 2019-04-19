@@ -18,7 +18,7 @@ Hints/Intructions are located in `express/controllers` and `express/routes` but 
 
 ### Part 1 - GET (Read)
 
-1. In the routes folder (`express/controllers/tickets.js`), create a route for getting all the movies/tickets from the db. Create a controller function to go along with that. Finally, use the appropriate mongoose method to retrieve items from the database. 
+1. In the routes folder (`express/routes/tickets.js`), create a route for getting all the movies/tickets from the db. Create a controller function to go along with that. Finally, use the appropriate mongoose method to retrieve items from the database. 
 
 
 ### Part 2 - POST (Create)
